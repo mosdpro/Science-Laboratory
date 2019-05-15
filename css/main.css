@@ -1,0 +1,111 @@
+.main-nav-container {
+  background-image: url('/images/header-bunner-img.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 480px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.home {
+  background-color: black;
+  width: 70%;
+  position:
+  padding: 15px;
+}
+
+.other  {
+  background-color: white;
+  padding-bottom: 55px;
+  margin-bottom: -5px;
+  /* position: absolute; */
+}
+
+.bigger-blog-container {
+  display: flex;
+  justify-content: center;
+  width: 1080px;
+  margin: 100px auto;
+  border-bottom: 1px solid black;
+}
+
+.services-container {
+  margin-left: 40px;
+  line-height: 2.5;
+}
+
+span .hr {
+  width: 70%;
+  text-align: center;
+  /* padding-top: 15px; */
+}
+
+.btn-type-1 {
+  color: #fff;
+  background-color: black;
+  padding: 10px 20px;
+  margin-top: 120px;
+  margin-right: 60px;
+
+}
+
+.btn-type-2 {
+  color: #fff;
+  background-color: black;
+  padding: 10px 20px;
+  /* margin-top: 120px; */
+  margin-left: -41px;
+}
+
+.btn-type-3 {
+  color: #fff;
+  background-color: black;
+  padding: 10px 20px;
+  margin-top: 18px;
+  margin-left: -41px;
+}
+
+.btn-type-4 {
+  color: #fff;
+  background-color: black;
+  padding: 10px 20px;
+  /* margin-top: 120px; */
+  margin-left: -41px;
+}
+
+.btn-type-5 {
+  color: #fff;
+  background-color: black;
+  padding: 10px 20px;
+  /* margin-top: 120px; */
+  margin-left: -41px;
+}
+
+.btn-type-6 {
+  color: #fff;
+  background-color: black;
+  padding: 10px 20px;
+  margin-left: 43px;
+}
+
+
+.btn-type-7 {
+  color: #fff;
+  background-color: black;
+  padding: 10px 20px;
+  margin-left: 43px;
+}
+
+.btn-type-8 {
+  color: #fff;
+  background-color: black;
+  padding: 10px 20px;
+  margin-left: 43px;
+}
+
+.btn-type-9 {
+  color: #fff;
+  background-color: black;
+  padding: 10px 20px;
+
+}

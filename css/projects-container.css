@@ -1,0 +1,71 @@
+.projects-container {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin: auto;
+  margin-top: -90px;
+  background-color: #f1f1f1;
+}
+
+.projects-container-contents  {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;;
+  margin-top: -75px;
+  margin-left: 50px;
+  height: 552px;
+  width: 100%;
+}
+
+
+.projects-container-contents
+.medicine,
+.genetics,
+.energy,
+.chemestry  {
+  background-color: white;
+  /* display: flex; */
+}
+
+.medicine,
+.genetics,
+.energy,
+.chemestry  {
+  margin-right: 30px;
+  height: 474px;
+  width: 250px;
+
+}
+
+
+.medicine,
+.genetics,
+.energy,
+.chemestry
+,
+h2,
+h3,
+p {
+  padding-left: 40px;
+  margin-right: 40px;
+}
+
+.img-pad  {
+  margin-left: 80px;
+}
+
+.medicine {
+  align-items: center;
+}
+
+.genetics{
+  align-items: center;
+}
+
+.ernegy{
+  align-items: center;
+}
+
+.chemistry{
+  align-items: center;
+}

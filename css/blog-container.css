@@ -1,0 +1,26 @@
+.blog-container {
+  background-color: white;
+  height: 760px;
+  display: flex;
+}
+
+.blog-img-1 {
+  display: flex;
+}
+
+.blog-txt-1,
+.blog-txt-2 {
+  height: 150px;
+  margin-top: -22px;
+  line-height: 17.5px;
+}
+
+
+.blog-flex  {
+  display: flex;
+  align-content: space-around;
+}
+
+.services-content {
+  line-height: 23.8px;
+}

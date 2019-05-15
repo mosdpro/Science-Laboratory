@@ -1,0 +1,204 @@
+.header-container {
+  background-image: url(/images/science-stock-image.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  margin: auto;
+  height: 900px;
+  box-sizing: border-box;
+}
+
+.top-nav-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  height: 200px;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.t-n-c-container  {
+  background-color: black;
+  height: 100px;
+  display: flex;
+  width: 1550px;
+  margin: auto;
+  margin-top: -18px;
+}
+
+.t-n-c a {
+  color: white;
+  text-decoration: none;
+}
+
+.b-n-c-container  {
+  background-color: white;
+  display: flex;
+  margin: auto;
+  margin-top: -85px;
+  width: 1400px;
+  height: 85px;
+  margin-right: 163px;
+}
+
+.b-n-c {
+  color: black;
+  text-decoration: none;
+  decoration: none;
+  padding: 35px;
+  margin-right: 138px;
+}
+
+.t-n-c-container
+.b-n-c-container,
+.b-n-c,
+.d-r, li, a {
+  list-style: none;
+}
+
+.t-n-c {
+  color: black;
+  text-decoration: none;
+  padding: 45px;
+  /* margin-right: 138px; */
+}
+
+.b-n-c-container,
+.b-n-c li a{
+  text-decoration: none;
+
+}
+
+
+ul li {
+  text-decoration: none;
+
+}
+
+
+.logo-img-style {
+  padding-right: 30px;
+}
+
+.logo-form {
+  display: flex;
+  /* padding-top: 5px; */
+}
+
+
+
+.search-Favicon{
+  padding-top: 5px;
+}
+
+span {
+  color: #abbc82;
+  ma
+}
+
+.logo-container {
+  display: flex;
+  justify-content:
+  height: fit-contents
+}
+
+.home-menu-container  {
+  display: flex;
+}
+
+.other-menu-container ul  {
+  display: flex;
+}
+
+.white  {
+  background-color: white;
+}
+
+.black  {
+  background-color: black;
+}
+
+
+.nav-container {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  height: 30px;
+}
+
+.home a {
+  color:
+}
+
+.big-container {
+  display: flex;
+  background-color: white;
+  height: 20px;
+}
+
+.big-container a {
+  color: black;
+}
+
+.intro {
+  justify-content: center;
+  display: flex;
+  color: white;
+  font-size: 36px;
+  align-items: center;
+}
+
+.intro-padding {
+  justify-content: center;
+  color: black;
+  font-size: 48px;
+  text-align: center;
+  margin-top: 152px;
+
+}
+
+.button-intro {
+  justify-content: center;
+  display: flex;
+  margin-top: -118px;
+}
+
+.top-nav-container,
+.form-containerse {
+  align-items: center;
+}
+
+.projects-container {
+  height: 530px;
+}
+
+.main-menu-container  {
+  background-color: black;
+}
+
+.menu-container {
+  background-color: white;
+  display: flex;
+  /* padding: 10px; */
+  padding: 30px;
+  /* width: 1024px; */
+  margin-left: 300px;
+}
+form  input {
+  padding: 5px;
+  border: unset;
+  background-color: transparent;
+}
+form img {
+  height: 20px;
+  width: 20px;
+
+}
+form {
+  display: flex;
+  align-items: center;
+  background-color: lightgrey;
+  padding: 5px;
+
+}
